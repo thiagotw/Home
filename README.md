@@ -6,4 +6,4 @@ Welcome to my portfolio! This page is currently being updated. Stay tuned for ne
 
 🔒 Cybersecurity projects and insights coming soon!  
 
-📌 In the meantime, you can check my [LinkedIn](https://www.linkedin.com/in/thiago-w/) or my CV [here](#).  
+📌 In the meantime, you can check my [LinkedIn](https://www.linkedin.com/in/thiago-w/)
