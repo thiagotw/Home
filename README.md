@@ -8,4 +8,4 @@ Welcome to my portfolio Github!
 
 📌 In the meantime, you can check my [LinkedIn](https://www.linkedin.com/in/thiago-w/)
 
-README.md
+
