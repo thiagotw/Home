@@ -8,4 +8,7 @@ Welcome to my portfolio Github!
 
 📌 In the meantime, you can check my [LinkedIn](https://www.linkedin.com/in/thiago-w/)
 
+## ## Featured Projects
+
+- [pfSense Suricata IDS/IPS Lab](https://github.com/thiagotw/pfSense-Suricata-IDS-IPS)
 
