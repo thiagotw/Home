@@ -1,9 +1,11 @@
 # Home
 About me
-# 🚧 **UNDER CONSTRUCTION** 🚧  
 
-Welcome to my portfolio! This page is currently being updated. Stay tuned for new content.  
 
-🔒 Cybersecurity projects and insights coming soon!  
+Welcome to my portfolio Github!
+
+🔒 Cybersecurity projects and insights!  
 
 📌 In the meantime, you can check my [LinkedIn](https://www.linkedin.com/in/thiago-w/)
+
+README.md
