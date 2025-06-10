@@ -10,5 +10,5 @@ Welcome to my portfolio Github!
 
 ## ## Featured Projects
 
-- [pfSense Suricata IDS/IPS Lab](https://github.com/thiagotw/pfSense-Suricata-IDS-IPS)
+- [pfSense-Suricata-IDS-IPS-ntopng](https://github.com/thiagotw/pfSense-Suricata-IDS-IPS-ntopng)
 
